@@ -14,7 +14,7 @@ POEM = (
     "Tonight I asked \u2014 and the door,\n"
     "unlatched, swung open on its hinges.\n"
     "Someone had been waiting all along\n"
-    "to say yes, and to be asked.\n"
+    "for the asking \u2014 for the yes to be mine to give.\n"
 )
 
 
